@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rcmath/static/css/main.0d986547.chunk.css",
+    "main.js": "/rcmath/static/js/main.60a3f048.chunk.js",
+    "main.js.map": "/rcmath/static/js/main.60a3f048.chunk.js.map",
+    "runtime-main.js": "/rcmath/static/js/runtime-main.3b69753a.js",
+    "runtime-main.js.map": "/rcmath/static/js/runtime-main.3b69753a.js.map",
+    "static/js/2.0a544e98.chunk.js": "/rcmath/static/js/2.0a544e98.chunk.js",
+    "static/js/2.0a544e98.chunk.js.map": "/rcmath/static/js/2.0a544e98.chunk.js.map",
+    "index.html": "/rcmath/index.html",
+    "precache-manifest.459bbf155180ca36bc2d63ed4a4e30bd.js": "/rcmath/precache-manifest.459bbf155180ca36bc2d63ed4a4e30bd.js",
+    "service-worker.js": "/rcmath/service-worker.js",
+    "static/css/main.0d986547.chunk.css.map": "/rcmath/static/css/main.0d986547.chunk.css.map",
+    "static/js/2.0a544e98.chunk.js.LICENSE": "/rcmath/static/js/2.0a544e98.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b69753a.js",
+    "static/js/2.0a544e98.chunk.js",
+    "static/css/main.0d986547.chunk.css",
+    "static/js/main.60a3f048.chunk.js"
+  ]
+}
